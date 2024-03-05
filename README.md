@@ -1,8 +1,8 @@
 # 海洋工程文献资料
 - 版本：V1
 - 文献类型：论文、标准、政策、报告、专著
-> - V1版本的数据在经过处理后，形成QA问题列表，用于建立初始模型
-> - 链接：https://pan.baidu.com/s/1qPjaklJrvmc_E3j8dEcPZg(提取码见群)
+> - V1版本的数据用于建立初始模型
+> - 百度网盘：提取码：见群，链接：https://pan.baidu.com/s/1qPjaklJrvmc_E3j8dEcPZg
 
 # 世界主要船级社
 1. 英国劳氏船级社 LR
