@@ -7,8 +7,8 @@
 
 # 参考资料
 ## 文献
-[[2306.06031] FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
-[[2308.02773] EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education](https://arxiv.org/abs/2308.02773)
+- [[2306.06031] FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
+- [[2308.02773] EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education](https://arxiv.org/abs/2308.02773)
 
 ## 网页
 - [ChatGPT在海洋工程行业的应用案例](https://sujiang.blog/blog/2023/05/14/chatgpt%E5%9C%A8%E6%B5%B7%E6%B4%8B%E5%B7%A5%E7%A8%8B%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B/)
