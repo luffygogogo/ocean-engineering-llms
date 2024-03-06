@@ -6,6 +6,9 @@
 > - V2版本预计增加：更多中英文献，增加文献类型：教学资料
 
 # 参考资料
+## GitHub库
+[HqWu-HITCS/Awesome-Chinese-LLM: 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
+
 ## 文献
 - [[2306.06031] FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
 - [[2308.02773] EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education](https://arxiv.org/abs/2308.02773)
