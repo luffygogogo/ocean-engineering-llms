@@ -6,11 +6,12 @@
 > - V2版本预计增加：更多中英文献，增加文献类型：教学资料
 
 # 参考资料
-[ChatGPT在海洋工程行业的应用案例](https://sujiang.blog/blog/2023/05/14/chatgpt%E5%9C%A8%E6%B5%B7%E6%B4%8B%E5%B7%A5%E7%A8%8B%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B/)
-[海洋工程中的生成式AI：专有数据集不足正限制其实际应用-人工智能-PHP中文网](https://www.php.cn/faq/623498.html)
-[司空学社开源首个中文建筑行业大模型 | 司空：基于中文建筑行业知识的LLaMA和Alpaca微调大模型 - 知乎](https://zhuanlan.zhihu.com/p/641374615)
-[实现海洋工程中的“虚拟世界多次迭代，物理世界一次成功”|科学|实验|动力学|流体力学_网易订阅](https://www.163.com/dy/article/IORARFBG05325Q3L.html)
-[AI+海洋：海洋大模型何时到来？ - 新闻动态 - 中国计算机学会](https://www.ccf.org.cn/YOCSEF/Branches/Qingdao/News/2023-11-03/796826.shtml)
+- [ChatGPT在海洋工程行业的应用案例](https://sujiang.blog/blog/2023/05/14/chatgpt%E5%9C%A8%E6%B5%B7%E6%B4%8B%E5%B7%A5%E7%A8%8B%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B/)
+- [海洋工程中的生成式AI：专有数据集不足正限制其实际应用-人工智能-PHP中文网](https://www.php.cn/faq/623498.html)
+- [司空学社开源首个中文建筑行业大模型 | 司空：基于中文建筑行业知识的LLaMA和Alpaca微调大模型 - 知乎](https://zhuanlan.zhihu.com/p/641374615)
+- [实现海洋工程中的“虚拟世界多次迭代，物理世界一次成功”|科学|实验|动力学|流体力学_网易订阅](https://www.163.com/dy/article/IORARFBG05325Q3L.html)
+- [AI+海洋：海洋大模型何时到来？ - 新闻动态 - 中国计算机学会](https://www.ccf.org.cn/YOCSEF/Branches/Qingdao/News/2023-11-03/796826.shtml)
+
 # 世界主要船级社
 1. 英国劳氏船级社 LR
 2. 法国船级社 BV
